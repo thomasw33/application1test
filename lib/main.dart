@@ -3,9 +3,6 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
-// this is the best
-// change 1
-//change 2
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
